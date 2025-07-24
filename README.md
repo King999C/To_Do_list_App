@@ -26,4 +26,8 @@ npm install
 npm run dev
 
 ** 4. View in Browser
+<<<<<<< HEAD
 Open http://localhost:5173
+=======
+Open http://localhost:5173
+>>>>>>> 3544eb60c11af8dcc552e9096e8c386362c79716
